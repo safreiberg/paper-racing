@@ -1,0 +1,54 @@
+TEAM MIT Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 3V
+
+TEAM Penn Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 3V
+BOAT 1F
+
+TEAM Harvard Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 1F
+BOAT 2F
+
+TEAM Delaware Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 1F
+BOAT 2F
+
+TEAM Dartmouth Lightweight Men
+BOAT 1V
+BOAT 2V
+
+TEAM Georgetown Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 1F
+
+TEAM Yale Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 1F
+
+TEAM Princeton Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 3V
+BOAT 4V
+BOAT 1F
+
+TEAM Cornell Lightweight Men
+BOAT 1V
+BOAT 2V
+
+TEAM Navy Lightweight Men
+BOAT 1V
+BOAT 2V
+BOAT 3V
+BOAT 4V
+BOAT 1F

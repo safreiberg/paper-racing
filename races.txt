@@ -1,0 +1,101 @@
+# MIT Delaware on 3/30
+RACE 
+RESULT MIT Lightweight Men,1V,6:21.7
+RESULT Delaware Lightweight Men,1V,6:27.5
+
+RACE 
+RESULT MIT Lightweight Men,2V,6:25.7
+RESULT Delaware Lightweight Men,1F,6:22.9
+
+RACE 
+RESULT MIT Lightweight Men,3V,7:08.3
+RESULT Delaware Lightweight Men,2V,6:34.0
+RESULT Delaware Lightweight Men,2F,6:47.6
+
+# Harvard Delaware on 3/30
+RACE 
+RESULT Harvard Lightweight Men,1V,6:08.4
+RESULT Delaware Lightweight Men,1V,6:24.9
+
+RACE 
+RESULT Harvard Lightweight Men,2V,6:23.8
+RESULT Delaware Lightweight Men,2V,6:44.9
+
+RACE 
+RESULT Harvard Lightweight Men,1F,6:28.6
+RESULT Delaware Lightweight Men,1F,6:25.3
+
+RACE 
+RESULT Harvard Lightweight Men,2F,6:49.4
+RESULT Delaware Lightweight Men,2F,6:45.5
+
+# Princeton Georgetown on 3/30
+RACE 
+RESULT Princeton Lightweight Men,1V,6:08.8
+RESULT Georgetown Lightweight Men,1V,6:16.4
+
+RACE 
+RESULT Princeton Lightweight Men,2V,6:25.1
+RESULT Georgetown Lightweight Men,2V,6:47.0
+RESULT Princeton Lightweight Men,3V,6:41.5
+
+# Yale Navy on 3/30
+RACE 
+RESULT Yale Lightweight Men,1V,6:04.8
+RESULT Navy Lightweight Men,1V,6:18.7
+
+RACE 
+RESULT Yale Lightweight Men,2V,6:06.2
+RESULT Navy Lightweight Men,2V,6:10.1
+
+RACE 
+RESULT Yale Lightweight Men,1F,6:14.5
+RESULT Navy Lightweight Men,1F,6:26.1
+
+# MIT Penn on 3/30
+RACE 
+RESULT Penn Lightweight Men,1V,6:16.5
+RESULT MIT Lightweight Men,1V,6:18.7
+
+RACE 
+RESULT Penn Lightweight Men,1F,6:22.6
+RESULT MIT Lightweight Men,2V,6:32.1
+RESULT Penn Lightweight Men,2V,6:38.3
+
+RACE
+RESULT Penn Lightweight Men,3V,6:51.0
+RESULT MIT Lightweight Men,3V,7:07.2
+
+# Georgetown Delaware on 3/23
+RACE
+RESULT Georgetown Lightweight Men,1V,5:59.5
+RESULT Delaware Lightweight Men,1V,6:00.1
+
+RACE
+RESULT Georgetown Lightweight Men,2V,6:29.1
+RESULT Delaware Lightweight Men,2V,6:20.0
+
+RACE
+RESULT Georgetown Lightweight Men,1F,6:19.6
+RESULT Delaware Lightweight Men,1F,6:05.6
+
+# Princeton Navy on 3/23
+RACE
+RESULT Princeton Lightweight Men,1V,6:26.2
+RESULT Navy Lightweight Men,1V,6:35.4
+
+RACE
+RESULT Princeton Lightweight Men,2V,6:22.4
+RESULT Navy Lightweight Men,2V,6:34.0
+
+RACE
+RESULT Princeton Lightweight Men,3V,6:57.0
+RESULT Navy Lightweight Men,3V,6:44.9
+
+RACE
+RESULT Princeton Lightweight Men,4V,7:51.1
+RESULT Navy Lightweight Men,4V,7:05.8
+
+RACE
+RESULT Princeton Lightweight Men,1F,6:27.2
+RESULT Navy Lightweight Men,1F,6:30.9
